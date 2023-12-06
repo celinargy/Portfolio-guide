@@ -1,7 +1,7 @@
-# Celine's portfolio
+# ✏️ Celine's portfolio
 Welcome! Here, I document a summary of my projects.
 
-# Table of content
+## Table of content
 - Python
 - SQL
 
